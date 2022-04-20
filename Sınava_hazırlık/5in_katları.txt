@@ -1,0 +1,7 @@
+10: 5in katıdır
+90: 5in katıdır
+55: 5in katıdır
+15: 5in katıdır
+5: 5in katıdır
+Listenin sonuna geldik.
+Toplamda 5 sayi var
